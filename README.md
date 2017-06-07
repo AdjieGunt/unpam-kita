@@ -11,4 +11,6 @@ After confirming that your environment meets the above [requirements](#requireme
 ```bash
 $ git clone https://github.com/dendisunardi/unpam-kita.git <my-project-name>
 $ cd <my-project-name>
+$ npm install
+$ npm start
 ```
