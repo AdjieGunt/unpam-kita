@@ -1,8 +1,24 @@
 .page-layout__viewport {
-  padding-top: 4rem;
+  padding-top: 0;
 }
 
 .page-layout__nav-item--active {
   font-weight: bold;
   text-decoration: underline;
+}
+
+.container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.main-header-wrapper {
+  border-bottom: 1px solid darkred;
+  padding: 10px 0;
+
+  .main-header {
+    color: darkred;
+    font-size: 16px;
+    font-weight: bold;
+  }
 }
